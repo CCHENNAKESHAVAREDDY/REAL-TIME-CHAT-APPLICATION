@@ -1,0 +1,19 @@
+{
+  "name": "real-time-chat-frontend",
+  "version": "1.0.0",
+  "description": "Frontend for Real-Time Chat App",
+  "scripts": {
+    "start": "parcel index.html --open",
+    "build": "parcel build index.html"
+  },
+  "dependencies": {
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0"
+  },
+  "devDependencies": {
+    "parcel": "^2.10.0"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
